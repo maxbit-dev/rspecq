@@ -4,6 +4,8 @@ Breaking changes are prefixed with a "[BREAKING]" label.
 
 ## master (unreleased)
 
+- [BREAKING] Remove Sentry integration
+
 ## 0.7.2 (2021-11-15)
 
 - Add tag option to filter specs (@jorge-wonolo)

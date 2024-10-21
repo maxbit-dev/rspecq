@@ -19,7 +19,6 @@ Gem::Specification.new do |s|
   end
 
   s.add_dependency "redis"
-  s.add_dependency "sentry-ruby"
 
   s.add_development_dependency "minitest"
   s.add_development_dependency "pry-byebug"
